@@ -5,6 +5,8 @@
 
 Designed to Work With Windows/Mac desktop
 
+(Extract all files here to get all chapters.zip)
+
 Build with electron,node js,Git desktop
 
 For installing Right click and open git bash in this folder.
